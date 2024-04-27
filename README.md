@@ -1,6 +1,6 @@
 # DSA-Prep-Course
 
-Contains assignments from Rutgers DSA (CS112) course.
+Contains assignments from Rutgers DSA (CS112) course. I'm redoing these for a good refresher on DSA. Feel free to follow along (my code is commented heavily for greater understanding).
 
 ### Project 3: Trie
 
